@@ -1,0 +1,10 @@
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\bin\Debug\MobyDick1_0.exe.config
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\bin\Debug\MobyDick1_0.exe
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\bin\Debug\MobyDick1_0.pdb
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.csprojResolveAssemblyReference.cache
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.exe
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.pdb
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.UI.resources
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\MobyDick1_0\MobyDick1_0\obj\Debug\MobyDick1_0.Properties.Resources.resources
